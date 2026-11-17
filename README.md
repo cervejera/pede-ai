@@ -2,8 +2,6 @@
 
 # Pede.ai
 
-Pedido às gráficas e agências do Sebrae PR em poucos minutos.
-
 O núcleo de criação do Sebrae PR pede impressos (banners, lonas, displays, adesivos) e serviços de design a fornecedores com contrato. Antes, cada pedido era montado à mão: buscar o item na planilha do contrato, calcular o preço, conferir o centro de custo, escrever o texto do pedido e da etiqueta. O Pede.ai faz tudo isso num fluxo só.
 
 > Ferramenta interna do Sebrae PR, por isso o código não é público. Este repo mostra o projeto. Telas com dados fictícios.
