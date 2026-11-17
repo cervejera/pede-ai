@@ -1,3 +1,5 @@
+**Português** · [English](README.en.md)
+
 # Pede.ai
 
 Pedido às gráficas e agências do Sebrae PR em poucos minutos.
